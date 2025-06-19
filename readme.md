@@ -126,5 +126,6 @@ Happy scripting! 🐧✨
 
 Repoo owned by
 
-[Kranthi Kumar Banda](https://github.com/k31-deb/)
-[Mark Agugo](https://github.com/markagugo)
+- [Kranthi Kumar Banda](https://github.com/k31-deb/)
+
+- [Mark Agugo](https://github.com/markagugo)
